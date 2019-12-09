@@ -26,6 +26,8 @@ img {
   margin-left: auto;
   margin-right: auto;
   height: 30%;
+  border-radius: 50%;
+  border:9px solid white;
 }
 
 ul {
@@ -34,7 +36,7 @@ ul {
 }
 
 p {
-  font-size: 18px;
+  font-size: 16px;
   color: black;
   font-family: 'Sulphur Point', sans-serif;
 }
@@ -43,6 +45,8 @@ h4 {
   color: crimson;
   text-align: center;
   font-family: 'Permanent Marker', cursive;
+  font-size: 22px;
+
 }
 
 footer a {
