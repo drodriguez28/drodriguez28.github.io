@@ -9,8 +9,6 @@ header {
   text-align: center;
   font-family: 'Permanent Marker', cursive;
   color: crimson;
-
-
 }
 
 header h1 {
@@ -27,7 +25,7 @@ img {
   margin-right: auto;
   height: 30%;
   border-radius: 50%;
-  border:9px solid white;
+  border: 9px solid white;
 }
 
 ul {
@@ -39,14 +37,21 @@ p {
   font-size: 16px;
   color: black;
   font-family: 'Sulphur Point', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-size: 35px;
+  font-family: 'Permanent Marker', cursive;
 }
 
 h4 {
   color: crimson;
   text-align: center;
+  font-family: 'Tomorrow', sans-serif;
   font-family: 'Permanent Marker', cursive;
   font-size: 22px;
-
 }
 
 footer a {
